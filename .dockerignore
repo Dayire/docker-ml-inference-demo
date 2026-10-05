@@ -1,0 +1,16 @@
+.git
+.devcontainer
+.venv
+.env
+.env.*
+!demo.env
+__pycache__
+*.pyc
+*.egg-info
+build
+data
+models
+scripts
+docs
+README.md
+VERIFIED.md
